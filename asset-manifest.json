@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0bfc7f3.chunk.css",
+    "main.js": "/static/js/main.e8462108.chunk.js",
+    "main.js.map": "/static/js/main.e8462108.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7918a0be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7918a0be.js.map",
+    "static/css/2.f98a1de1.chunk.css": "/static/css/2.f98a1de1.chunk.css",
+    "static/js/2.6d59a620.chunk.js": "/static/js/2.6d59a620.chunk.js",
+    "static/js/2.6d59a620.chunk.js.map": "/static/js/2.6d59a620.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d40d2f5d0ae4180f6be82ec1f4720fe5.js": "/precache-manifest.d40d2f5d0ae4180f6be82ec1f4720fe5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f98a1de1.chunk.css.map": "/static/css/2.f98a1de1.chunk.css.map",
+    "static/css/main.b0bfc7f3.chunk.css.map": "/static/css/main.b0bfc7f3.chunk.css.map",
+    "static/js/2.6d59a620.chunk.js.LICENSE.txt": "/static/js/2.6d59a620.chunk.js.LICENSE.txt",
+    "static/media/gouwu.png": "/static/media/gouwu.423b7358.png",
+    "static/media/kefu.png": "/static/media/kefu.92a82db2.png",
+    "static/media/left1.jpg": "/static/media/left1.9b97bcee.jpg",
+    "static/media/left2.jpg": "/static/media/left2.7b2575f5.jpg",
+    "static/media/left3.jpg": "/static/media/left3.9487003d.jpg",
+    "static/media/left4.jpg": "/static/media/left4.c879fab8.jpg",
+    "static/media/left5.jpg": "/static/media/left5.914f0874.jpg",
+    "static/media/lunbo1.png": "/static/media/lunbo1.f185253f.png",
+    "static/media/lunbo2.png": "/static/media/lunbo2.c8a1b442.png",
+    "static/media/lunbo4.png": "/static/media/lunbo4.93badb24.png",
+    "static/media/lunbo7.png": "/static/media/lunbo7.fb46b6ec.png",
+    "static/media/right1.jpg": "/static/media/right1.3b27aa81.jpg",
+    "static/media/Details.css": "/static/media/right2.87fba612.jpg",
+    "static/media/right3.jpg": "/static/media/right3.e4730b1e.jpg",
+    "static/media/right4.jpg": "/static/media/right4.2d3c28bb.jpg",
+    "static/media/right5.jpg": "/static/media/right5.402ccc9d.jpg",
+    "static/media/Home.css": "/static/media/taobao.a517b05f.png",
+    "static/media/xingxing.png": "/static/media/xingxing.c4876f18.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7918a0be.js",
+    "static/css/2.f98a1de1.chunk.css",
+    "static/js/2.6d59a620.chunk.js",
+    "static/css/main.b0bfc7f3.chunk.css",
+    "static/js/main.e8462108.chunk.js"
+  ]
+}
